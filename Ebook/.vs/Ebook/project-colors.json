@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "a472b3af-bab3-424b-9357-598c52bf0adb": {
+      "ProjectGuid": "a472b3af-bab3-424b-9357-598c52bf0adb",
+      "DisplayName": "Ebook",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
